@@ -9,6 +9,13 @@ It is often difficult to get *up to speed* on a existing project. FS's are now
 a thing of the past and I'm not sure we have really developed an agile
 approach to solve the hole left. This is my solution.
 
+## Quick Start
+
+Presuming node/npm is already installed..
+
+    npm install
+    node server.js
+
 ## What's this then?
 
 The structure is simple. The only step is to create a README.md file in the
